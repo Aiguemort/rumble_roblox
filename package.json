@@ -1,0 +1,12 @@
+{
+  "name": "rumble_twitch_bot",
+  "version": "1.0.0",
+  "description": "Integration for the Roblox rumble game",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiguemort",
+  "license": "ISC"
+}
